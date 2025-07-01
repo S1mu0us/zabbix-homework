@@ -59,19 +59,12 @@ $ systemctl restart zabbix-server apache2
 
 `Установите Zabbix Agent на два хоста.`
 
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
-
 ```
-Поле для вставки кода...
-....
-....
-....
-....
+$ sudo apt update
+$ sudo apt install zabbix-agent
+$ sudo nano /etc/zabbix/zabbix_agentd.conf
+$ sudo systemctl restart zabbix-agent.service
+$ systemctl status zabbix-agent.service
 ```
 
 `При необходимости прикрепитe сюда скриншоты
