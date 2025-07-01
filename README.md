@@ -51,7 +51,7 @@ $ systemctl restart zabbix-server apache2
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
+![Скриншот-1](https://github.com/netology-code/sys-pattern-homework/blob/main/img/img15.png)`
 
 
 ---
