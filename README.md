@@ -50,7 +50,7 @@ $ sudo kill -9 $(sudo lsof -i :8080)
 $ systemctl restart zabbix-server apache2
 ```
 
-![Скриншот-1](https://github.com/netology-code/sys-pattern-homework/blob/main/img/img15.png)
+![Скриншот входа в Zabbix](img/zabbixlogin.png)
 
 
 ---
