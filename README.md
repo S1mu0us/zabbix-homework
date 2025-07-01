@@ -52,7 +52,6 @@ $ systemctl restart zabbix-server apache2
 
 ![Скриншот входа в Zabbix](img/zabbixlogin.png)
 
-
 ---
 
 ### Задание 2
@@ -67,8 +66,8 @@ $ sudo systemctl restart zabbix-agent.service
 $ systemctl status zabbix-agent.service
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
-
+![Скриншот Hosts](img/zabbixhosts.png)
+![Скриншот tail](img/zabbixtail.png)
+![Скриншот Latest](img/zabbixlatest.png)
 
 ---
